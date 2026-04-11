@@ -3,6 +3,16 @@ main:
   - title: "About"
     url: /about/
 
+  <li><a href="javascript:void();" target="target_page"><span class="has_menu">Publications</span></a>
+      <ul>
+        <li><a href="./chronological/view.html" title="by time" target="target_page">- by time</a></li>
+        <li><a href="./chronological/viewcat.html" title="by category" target="target_page">- by category</a></li>
+        <li><a href="pub_book.html" title="books/ book chapters" target="target_page">- books/ book chapters</a></li>
+        <li><a href="pub_thesis.html" title="thesis supervised" target="target_page">- thesis supervised</a></li>
+        <li><a href="copyright.html" title="copyright notice" target="target_page">* copyright notice</a></li>
+      </ul>
+    </li>
+
   - title: "Research"
     url: /research/
 

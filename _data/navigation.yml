@@ -1,24 +1,11 @@
 # main navigation links
 main:
-  - title: "About"
-    url: /about/
+  #- title: "About"
+  #  url: /about/
 
   - title: "Publications"
+    url: /publications/
     children:
-      - title: "By Time"
-        url: /publications/time/
-
-      - title: "By Category"
-        url: /publications/category/
-
-      - title: "Books & Chapters"
-        url: /publications/books/
-
-      - title: "Thesis Supervised"
-        url: /publications/thesis/
-
-      - title: "Copyright"
-        url: /publications/copyright/
 
   - title: "Research"
     url: /research/

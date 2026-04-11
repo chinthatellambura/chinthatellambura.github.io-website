@@ -21,15 +21,22 @@ author:
   bio: "Ph.D., P.Eng., Professor, IEEE Fellow"
   #location: ""
   email: "ct4@ualberta.ca"
-  phone: "+1 780 492 7228"
   links:
-    - label: "+1 780 492 7228"
-      icon: "fa-duotone fa-thin fa-circle-phone"
-      #url: "https://github.com/chinthatellambura"
+    - label: "Phone"
+      icon: "fas fa-fw fa-phone"
+      url: "tel:+1 780 492 7228"
+      
+    - label: "Office"
+      icon: "fas fa-fw fa-building"
+      url: "Office: ICE 11-340"
 
-    - label: "Office: ICE 11-340"
-      icon: "fa-duotone fa-thin fa-building"
-      #url: "https://github.com/chinthatellambura"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/your-profile"
+
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=YOUR_ID"
 
 footer:
   links:

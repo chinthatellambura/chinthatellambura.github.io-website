@@ -22,6 +22,10 @@ author:
   #location: ""
   #email: "ct4@ualberta.ca"
   links:
+    - label: "University of Alberta"
+      icon: "fas fa-fw fa-university"
+      url: "https://apps.ualberta.ca/directory/person/ct4"
+      
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:ct4@ualberta.ca"

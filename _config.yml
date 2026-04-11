@@ -17,14 +17,18 @@ search_provider: lunr
 
 author:
   name: "Chintha Tellambura"
-  avatar: "/assets/images/bio-photo.jpg"
-  bio: "Researcher"
-  location: ""
-  email: ""
+  avatar: "/assets/images/chintha.jpg"
+  bio: "Ph.D., P.Eng., Professor, IEEE Fellow"
+  #location: ""
+  email: "ct4@ualberta.ca"
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/chinthatellambura"
+    - label: "+1 780 492 7228"
+      icon: "fa-duotone fa-thin fa-circle-phone"
+      #url: "https://github.com/chinthatellambura"
+
+    - label: "Office: ICE 11-340"
+      icon: "fa-duotone fa-thin fa-building"
+      #url: "https://github.com/chinthatellambura"
 
 footer:
   links:

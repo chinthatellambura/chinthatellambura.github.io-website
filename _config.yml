@@ -26,15 +26,15 @@ author:
       icon: "fas fa-fw fa-university"
       url: "https://apps.ualberta.ca/directory/person/ct4"
       
-    - label: "Email"
+    - label: "ct4@ualberta.ca"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:ct4@ualberta.ca"
       
-    - label: "Phone"
+    - label: "+1 780 492 7228"
       icon: "fas fa-fw fa-phone"
       url: "tel:+1 780 492 7228"
       
-    - label: "Office"
+    - label: "Office: ICE 11-340"
       icon: "fas fa-fw fa-building"
       url: "Office: ICE 11-340"
 

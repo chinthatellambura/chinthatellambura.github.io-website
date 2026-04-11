@@ -1,26 +1,24 @@
-# Theme
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 
-# Site Settings
 locale: "en-US"
 title: "Chintha Tellambura"
 title_separator: "-"
 name: "Chintha Tellambura"
 description: "Research and academic website"
 
-# GitHub Pages settings (IMPORTANT)
 url: "https://chinthatellambura.github.io"
 baseurl: "/chinthatellambura.github.io-website"
 repository: "chinthatellambura/chinthatellambura.github.io-website"
 
-# Appearance
 minimal_mistakes_skin: "default"
 
-# Author Profile (sidebar)
+search: true
+search_provider: lunr
+
 author:
   name: "Chintha Tellambura"
-  avatar: "/assets/images/bio-photo.jpg"  # optional (add image later)
-  bio: "Researcher in your field"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "Researcher"
   location: ""
   email: ""
   links:
@@ -28,18 +26,32 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/chinthatellambura"
 
-# Footer links
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/chinthatellambura"
 
-# Reading Files
 include:
   - _pages
 
-# Markdown + Processing
+exclude:
+  - docs
+  - test
+  - vendor
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
+  - CHANGELOG.md
+  - README.md
+  - LICENSE
+  - tmp
+  - log
+  - .sass-cache
+  - .jekyll-cache
+  - .bundle
+  - .asset-cache
+
 markdown: kramdown
 highlighter: rouge
 
@@ -48,14 +60,11 @@ kramdown:
   hard_wrap: false
   auto_ids: true
 
-# Permalinks
 permalink: /:categories/:title/
 
-# Pagination
 paginate: 5
 paginate_path: /page:num/
 
-# Plugins (GitHub Pages compatible)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -63,7 +72,6 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
-# Defaults (applies layout automatically)
 defaults:
   - scope:
       path: ""

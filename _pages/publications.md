@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Publication Index
 
 - [By Time]({{ site.baseurl }}/publications/time/)
 - [By Category]({{ site.baseurl }}/publications/category/)

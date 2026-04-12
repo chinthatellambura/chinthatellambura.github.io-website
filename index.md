@@ -1,13 +1,9 @@
 ---
 layout: single
-title: "home"
+title: "Home"
 author_profile: true
 permalink: /
 ---
-
-<div class="title">
-  home
-</div>
 
 <p>I am a Professor with the <a href="http://www.ece.ualberta.ca"
 target="_blank">Department of Electrical and Computer

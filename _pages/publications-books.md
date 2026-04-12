@@ -16,7 +16,7 @@ sidebar:
   In most cases, these works may not be reposted without the explicit permission of the copyright holder.
 </div>
 
-## Publications: Books / Book Chapters
+## Books / Book Chapters
 
 1. S. Atapattu, C. Tellambura, H. Jiang, "Energy Detection for Spectrum Sensing in Cognitive Radio," *Springer Briefs in Computer Science*, 2014.
 

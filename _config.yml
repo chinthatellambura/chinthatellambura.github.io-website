@@ -1,37 +1,90 @@
-# Theme
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default"
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 
-# Site Settings
 locale: "en-US"
 title: "Chintha Tellambura"
+title_separator: "-"
 name: "Chintha Tellambura"
-description: "Professor, University of Alberta"
+description: "Research and academic website"
+
 url: "https://chinthatellambura.github.io"
 baseurl: "/chinthatellambura.github.io-website"
+repository: "chinthatellambura/chinthatellambura.github.io-website"
 
-# Author Profile (sidebar info)
+minimal_mistakes_skin: "default"
+
+search: true
+search_provider: lunr
+
 author:
   name: "Chintha Tellambura"
-  avatar: "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/chintha.jpg"
   bio: "Ph.D., P.Eng., Professor, IEEE Fellow"
-  location: "University of Alberta"
-  email: "ct4@ualberta.ca"
+  #location: ""
+  #email: "ct4@ualberta.ca"
   links:
-    - label: "Phone"
+    - label: "University of Alberta"
+      icon: "fas fa-fw fa-university"
+      url: "https://apps.ualberta.ca/directory/person/ct4"
+      
+    - label: "ct4@ualberta.ca"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:ct4@ualberta.ca"
+      
+    - label: "+1 780 492 7228"
       icon: "fas fa-fw fa-phone"
-      url: "tel:+17804927228"
-    - label: "Office"
+      url: "tel:+1 780 492 7228"
+      
+    - label: "Office: ICE 11-340"
       icon: "fas fa-fw fa-building"
-      url: ""
+      url: "Office: ICE 11-340"
+
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com"
+      url: "https://www.linkedin.com/in/your-profile"
+
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.ca/citations?user=7hw2Ha4AAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?user=YOUR_ID"
 
-# Plugins (GitHub Pages supported)
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/chinthatellambura"
+
+include:
+  - _pages
+
+exclude:
+  - docs
+  - test
+  - vendor
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
+  - CHANGELOG.md
+  - README.md
+  - LICENSE
+  - tmp
+  - log
+  - .sass-cache
+  - .jekyll-cache
+  - .bundle
+  - .asset-cache
+
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+
+permalink: /:categories/:title/
+
+paginate: 5
+paginate_path: /page:num/
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -39,39 +92,20 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
-# Defaults (GLOBAL LAYOUT CONTROL)
 defaults:
-  # Pages → WIDE + NO SIDEBAR
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: false
-      classes: wide
-
-  # Posts (if you ever use blog)
   - scope:
       path: ""
       type: posts
     values:
       layout: single
-      author_profile: false
-      classes: wide
+      author_profile: true
       read_time: true
       share: true
       related: true
 
-# Markdown
-markdown: kramdown
-highlighter: rouge
-
-# Pagination (disable blog-style homepage behavior)
-paginate: 0
-
-# Exclude unnecessary files
-exclude:
-  - README.md
-  - LICENSE
-  - node_modules
-  - vendor
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true

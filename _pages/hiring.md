@@ -1,5 +1,5 @@
 ---
-title: "Prospective Students"
+title: " "
 layout: single
 permalink: /hiring/
 author_profile: true

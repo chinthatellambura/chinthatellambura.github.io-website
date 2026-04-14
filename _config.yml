@@ -46,6 +46,10 @@ author:
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=YOUR_ID"
 
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/YOUR_PROFILE"
+
 footer:
   links:
     - label: "GitHub"

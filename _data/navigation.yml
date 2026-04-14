@@ -3,9 +3,11 @@ main:
   #- title: "About"
   #  url: /about/
 
+  - title: "News"
+    url: /news/
+
   - title: "Publications"
     url: /publications/
-    children:
 
   - title: "Research"
     url: /research/
@@ -13,5 +15,8 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Contact"
-    url: /contact/
+  - title: "Team"
+    url: /team/
+
+  - title: "Hiring"
+    url: /hiring/

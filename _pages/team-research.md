@@ -10,7 +10,7 @@ author_profile: true
 ### Reza Yousefvand
 **M.Sc. Student**
 
-![Reza Yousefvand]({{ site.baseurl }}/images/Reza.jpg){: .align-right style="max-width: 220px;" }
+![Reza Yousefvand](/chinthatellambura.github.io-website/images/team/Reza.jpg){: .align-right style="max-width: 220px;" }
 
 B.Sc. in Electrical Engineering, University of Tehran, Tehran, Iran (2014–2018)
 
@@ -23,7 +23,7 @@ B.Sc. in Electrical Engineering, University of Tehran, Tehran, Iran (2014–2018
 ### Fatemeh Rezaei Dindarloo
 **Visiting PhD Student**
 
-![Fatemeh Rezaei Dindarloo]({{ site.baseurl }}/images/Fatemah.jpeg){: .align-right style="max-width: 220px;" }
+![Fatemeh Rezaei Dindarloo](/chinthatellambura.github.io-website/images/team/Fatemah.jpeg){: .align-right style="max-width: 220px;" }
 
 B.Sc. in Communication Engineering, Persian Gulf University, Bushehr, Iran (2011)  
 M.Sc. in Communication Engineering, Yazd University, Yazd, Iran (2013)  
@@ -38,7 +38,7 @@ Ph.D. Student in Communication Engineering, Yazd University, Yazd, Iran (2015–
 ### Amirhossein Mohammadian
 **Ph.D. Student**
 
-![Amirhossein Mohammadian]({{ site.baseurl }}/images/amir.jpg){: .align-right style="max-width: 220px;" }
+![Amirhossein Mohammadian](/chinthatellambura.github.io-website/images/team/amir.jpg){: .align-right style="max-width: 220px;" }
 
 B.Sc. in Electrical Engineering, Amirkabir University of Technology (Tehran Polytechnic), Tehran, Iran (2010–2014)  
 M.Sc. in Electrical Engineering, Amirkabir University of Technology (Tehran Polytechnic), Tehran, Iran (2014–2017)
@@ -53,7 +53,7 @@ M.Sc. in Electrical Engineering, Amirkabir University of Technology (Tehran Poly
 **Ph.D. Student**  
 Co-supervised with [Dr. Witold A. Krzymień](http://www.ece.ualberta.ca/~krzymien/){: target="_blank" }
 
-![Mahtab Ataeeshojai]({{ site.baseurl }}/images/mahtab.jpg){: .align-right style="max-width: 220px;" }
+![Mahtab Ataeeshojai](/chinthatellambura.github.io-website/images/team/mahtab.jpg){: .align-right style="max-width: 220px;" }
 
 B.Sc. in Electrical Engineering, Shahid Beheshti University, Tehran, Iran (2014)  
 M.Sc. in Electrical Engineering, Amirkabir University of Technology (Tehran Polytechnic), Tehran, Iran (2017)
@@ -68,7 +68,7 @@ M.Sc. in Electrical Engineering, Amirkabir University of Technology (Tehran Poly
 **PhD Student**  
 Co-supervised with [Dr. Masoud Ardakani](http://www.ece.ualberta.ca/~ardakani/){: target="_blank" }
 
-![Maryam Haghighi Ardakani]({{ site.baseurl }}/images/maryam.jpg){: .align-right style="max-width: 220px;" }
+![Maryam Haghighi Ardakani](/chinthatellambura.github.io-website/images/team/maryam.jpg){: .align-right style="max-width: 220px;" }
 
 B.Sc. in Electrical Engineering, Isfahan University, Isfahan, Iran (2013)  
 M.Sc. in Electrical Engineering, Ozyegin University, Istanbul, Turkey (2016)
@@ -83,7 +83,7 @@ M.Sc. in Electrical Engineering, Ozyegin University, Istanbul, Turkey (2016)
 **PhD Student**  
 Co-supervised with [Dr. Masoud Ardakani](http://www.ece.ualberta.ca/~ardakani/){: target="_blank" }
 
-![Ali Reza Heidarpour]({{ site.baseurl }}/images/alirezaheidarpour.jpg){: .align-right style="max-width: 220px;" }
+![Ali Reza Heidarpour](/chinthatellambura.github.io-website/images/team/alirezaheidarpour.jpg){: .align-right style="max-width: 220px;" }
 
 B.Sc. in Electrical Engineering, Isfahan University, Isfahan, Iran (2013)  
 M.Sc. in Electrical Engineering, Ozyegin University, Istanbul, Turkey (2016)

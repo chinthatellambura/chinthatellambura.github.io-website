@@ -1,7 +1,7 @@
 ---
 title: "Prospective Students"
 layout: single
-permalink: /team/prospective/
+permalink: /hiring/
 author_profile: true
 ---
 

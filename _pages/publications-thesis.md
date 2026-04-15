@@ -98,9 +98,11 @@ sidebar:
 
 1. Saeed Kaviani, "Closed-loop transmit diversity for multiple antenna systems," *Master's thesis*, University of Alberta, Edmonton, AB, Canada, December 2006.
 
-1. A. Alavi, "Decoding algorithms for peak reduction codes," *Master's thesis*, University of Alberta, Edmonton, AB, Canada, December 2004.
-
 1. T. Cui, "Efficient detection techniques for wireless communications," *Master's thesis*, University of Alberta, Edmonton, AB, Canada, August 2005.
+  
+1. Yunxia Chen, "New Diversity Combiners and the Impact of Fading Correlation on Diversity Systems," *Master's thesis*, University of Alberta, Edmonton, AB, Canada, September 2004. [![PDF](/chinthatellambura.github.io-website/assets/images/pdf_logo.gif){: style="height:18px; vertical-align:middle;"}](/chinthatellambura.github.io-website/pdf/thesis/msc_Yunxia.pdf){: target="_blank"}
+
+1. A. Alavi, "Decoding algorithms for peak reduction codes," *Master's thesis*, University of Alberta, Edmonton, AB, Canada, December 2004.
 
 1. Y. Chen, "New diversity combiners and the impact of fading correlation on diversity systems," *Master's thesis*, University of Alberta, Edmonton, AB, Canada, August 2004.
 

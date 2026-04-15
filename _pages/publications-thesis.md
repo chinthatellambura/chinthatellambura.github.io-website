@@ -18,6 +18,8 @@ sidebar:
 
 ## Publications: Thesis Supervised
 
+1. Amirhossein Mohammadian, "Spectral Efficient Non-orthogonal Radio Designs For Future Wireless Networks," *Ph.D. dissertation*, University of Alberta, Edmonton, AB, Canada, January 2026. [![PDF](/chinthatellambura.github.io-website/assets/images/pdf_logo.gif){: style="height:18px; vertical-align:middle;"}](/chinthatellambura.github.io-website/pdf/thesis/phd_Amirhossein_Mohammadian.pdf){: target="_blank"} 
+
 1. Shayan Zargari, "Enhancing Ambient Backscatter and ISAC Systems: Optimization and Deep Learning Approaches," *Ph.D. dissertation*, University of Alberta, Edmonton, AB, Canada, August 2025. [![PDF](/chinthatellambura.github.io-website/assets/images/pdf_logo.gif){: style="height:18px; vertical-align:middle;"}](/chinthatellambura.github.io-website/pdf/thesis/phd_Shayan.pdf){: target="_blank"} 
 
 1. Azar Hakimi Najafabadi, "Enhancing Backscatter Communication Networks: Optimization and Integration with Emerging Technologies," *Ph.D. dissertation*, University of Alberta, Edmonton, AB, Canada, August 2024. [![PDF](/chinthatellambura.github.io-website/assets/images/pdf_logo.gif){: style="height:18px; vertical-align:middle;"}](/chinthatellambura.github.io-website/pdf/thesis/phd_Azar.pdf){: target="_blank"}

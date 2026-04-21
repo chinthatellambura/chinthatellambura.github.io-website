@@ -9,7 +9,7 @@ author_profile: true
 
 - Thank you for your interest in my research, ECE, and the University of Alberta.
 
-- I typically recruit about 2 new students a year.
+- I typically recruit a few students each year.
 
 - A typical student I would recruit would have most (not necessarily all) of the following traits:
 

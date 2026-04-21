@@ -18,8 +18,6 @@ sidebar:
 
 ## Publications: Thesis Supervised
 
-1. Amirhossein Mohammadian, "Spectral Efficient Non-orthogonal Radio Designs For Future Wireless Networks," *Ph.D. dissertation*, University of Alberta, Edmonton, AB, Canada, January 2026. [![PDF](/chinthatellambura.github.io-website/assets/images/pdf_logo.gif){: style="height:18px; vertical-align:middle;"}](/chinthatellambura.github.io-website/pdf/thesis/phd_Amirhossein_Mohammadian.pdf){: target="_blank"} 
-
 1. Shayan Zargari, "Enhancing Ambient Backscatter and ISAC Systems: Optimization and Deep Learning Approaches," *Ph.D. dissertation*, University of Alberta, Edmonton, AB, Canada, August 2025. [![PDF](/chinthatellambura.github.io-website/assets/images/pdf_logo.gif){: style="height:18px; vertical-align:middle;"}](/chinthatellambura.github.io-website/pdf/thesis/phd_Shayan.pdf){: target="_blank"} 
 
 1. Azar Hakimi Najafabadi, "Enhancing Backscatter Communication Networks: Optimization and Integration with Emerging Technologies," *Ph.D. dissertation*, University of Alberta, Edmonton, AB, Canada, August 2024. [![PDF](/chinthatellambura.github.io-website/assets/images/pdf_logo.gif){: style="height:18px; vertical-align:middle;"}](/chinthatellambura.github.io-website/pdf/thesis/phd_Azar.pdf){: target="_blank"}
@@ -29,6 +27,8 @@ sidebar:
 1. Ali Reza Heidarpour, "Performance Analysis of Network-Coded Cooperation Systems," *Ph.D. dissertation*, University of Alberta, Edmonton, AB, Canada, August 2021. [![PDF](/chinthatellambura.github.io-website/assets/images/pdf_logo.gif){: style="height:18px; vertical-align:middle;"}](/chinthatellambura.github.io-website/pdf/thesis/phd_Ali_Reza.pdf){: target="_blank"}
 
 1. Maryam Haghighi Ardakani, "Fast and Simplified Successive-Cancellation Based Decoders for Polar Codes," *Ph.D. dissertation*, University of Alberta, Edmonton, AB, Canada, August 2021. [![PDF](/chinthatellambura.github.io-website/assets/images/pdf_logo.gif){: style="height:18px; vertical-align:middle;"}](/chinthatellambura.github.io-website/pdf/thesis/phd_Maryam_Haghighi.pdf){: target="_blank"} 
+
+1. Amirhossein Mohammadian, "Spectral Efficient Non-orthogonal Radio Designs For Future Wireless Networks," *Ph.D. dissertation*, University of Alberta, Edmonton, AB, Canada, August 2021. [![PDF](/chinthatellambura.github.io-website/assets/images/pdf_logo.gif){: style="height:18px; vertical-align:middle;"}](/chinthatellambura.github.io-website/pdf/thesis/phd_Amirhossein_Mohammadian.pdf){: target="_blank"} 
 
 1. Danyang Wang, "Performance Analysis of Wireless Powered Communication Networks with Imperfect CSI and Nonlinear Energy Harvesters," *Master's thesis*, University of Alberta, Edmonton, AB, Canada, August 2020. [![PDF](/chinthatellambura.github.io-website/assets/images/pdf_logo.gif){: style="height:18px; vertical-align:middle;"}](/chinthatellambura.github.io-website/pdf/thesis/msc_dangyang.pdf){: target="_blank"} [![PPT](/chinthatellambura.github.io-website/assets/images/ppt_logo.gif){: style="height:18px; vertical-align:middle;"}](/chinthatellambura.github.io-website/pdf/thesis/ppt_dangyang.pdf){: target="_blank"} [![ZIP](/chinthatellambura.github.io-website/assets/images/zip_logo.gif){: style="height:18px; vertical-align:middle;"}](/chinthatellambura.github.io-website/pdf/thesis/Dangyang_codes.zip){: target="_blank"}
 

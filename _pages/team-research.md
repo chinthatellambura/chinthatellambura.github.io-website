@@ -7,7 +7,7 @@ author_profile: true
 
 ## Post-Docs
 
-### Diluka Galappaththige
+### Dr. Diluka Galappaththige
 
 
 ![Diluka Galappaththige](/chinthatellambura.github.io-website/images/team/Diluka.jpg){: .align-right style="max-width: 220px;" }

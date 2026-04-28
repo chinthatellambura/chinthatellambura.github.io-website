@@ -8,9 +8,9 @@ author_profile: true
 ## PostDocs
 
 ### Diluka Galappaththige
-**M.Sc. Student**
 
-![Reza Yousefvand](/chinthatellambura.github.io-website/images/team/Diluka.jpg){: .align-right style="max-width: 220px;" }
+
+![Diluka Galappaththige](/chinthatellambura.github.io-website/images/team/Diluka.jpg){: .align-right style="max-width: 220px;" }
 
 B.Sc. in Electrical and Electronic Engineering, University of Peradeniya, Sri Lanka (2014–2017)
 

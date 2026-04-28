@@ -14,38 +14,10 @@ author_profile: true
 
 B.Sc. in Electrical Engineering, University of Tehran, Tehran, Iran (2014–2018)
 
-**Research interests:** Wireless communication, Machine Learning, Reinforcement Learning, Ambient Backscatter Communications
+Graduated in 
 
 **Email:** [yousefva@ualberta.ca](mailto:yousefva@ualberta.ca)
 
----
-
-### Fatemeh Rezaei Dindarloo
-**Visiting PhD Student**
-
-![Fatemeh Rezaei Dindarloo](/chinthatellambura.github.io-website/images/team/Fatemah.jpeg){: .align-right style="max-width: 220px;" }
-
-B.Sc. in Communication Engineering, Persian Gulf University, Bushehr, Iran (2011)  
-M.Sc. in Communication Engineering, Yazd University, Yazd, Iran (2013)  
-Ph.D. Student in Communication Engineering, Yazd University, Yazd, Iran (2015–Present)
-
-**Research interests:** Wireless Communications, MIMO and massive MIMO, Interference alignment, Cognitive radio networks
-
-**Email:** [Rezaeidi@ualberta.ca](mailto:Rezaeidi@ualberta.ca)
-
----
-
-### Amirhossein Mohammadian
-**Ph.D. Student**
-
-![Amirhossein Mohammadian](/chinthatellambura.github.io-website/images/team/amir.jpg){: .align-right style="max-width: 220px;" }
-
-B.Sc. in Electrical Engineering, Amirkabir University of Technology (Tehran Polytechnic), Tehran, Iran (2010–2014)  
-M.Sc. in Electrical Engineering, Amirkabir University of Technology (Tehran Polytechnic), Tehran, Iran (2014–2017)
-
-**Research interests:** Wireless communication, Cognitive radio, Next generation multiple access techniques, Dirty RF and MIMO structure
-
-**Email:** [am11@ualberta.ca](mailto:am11@ualberta.ca)
 
 ---
 
@@ -58,24 +30,23 @@ Co-supervised with [Dr. Witold A. Krzymień](http://www.ece.ualberta.ca/~krzymie
 B.Sc. in Electrical Engineering, Shahid Beheshti University, Tehran, Iran (2014)  
 M.Sc. in Electrical Engineering, Amirkabir University of Technology (Tehran Polytechnic), Tehran, Iran (2017)
 
-**Research interests:** Wireless communications, Green communications, MIMO and massive MIMO, Cooperative communications, Energy efficiency, Resource allocation
+Graduated in 2022. Currently, he is with Huawei, Ottawa, Canada.
 
 **Email:** [ataeesho@ualberta.ca](mailto:ataeesho@ualberta.ca)
 
 ---
 
-### Maryam Haghighi Ardakani
-**PhD Student**  
-Co-supervised with [Dr. Masoud Ardakani](http://www.ece.ualberta.ca/~ardakani/){: target="_blank" }
+### Amirhossein Mohammadian
+**Ph.D. Student**
 
-![Maryam Haghighi Ardakani](/chinthatellambura.github.io-website/images/team/maryam.jpg){: .align-right style="max-width: 220px;" }
+![Amirhossein Mohammadian](/chinthatellambura.github.io-website/images/team/amir.jpg){: .align-right style="max-width: 220px;" }
 
-B.Sc. in Electrical Engineering, Isfahan University, Isfahan, Iran (2013)  
-M.Sc. in Electrical Engineering, Ozyegin University, Istanbul, Turkey (2016)
+B.Sc. in Electrical Engineering, Amirkabir University of Technology (Tehran Polytechnic), Tehran, Iran (2010–2014)  
+M.Sc. in Electrical Engineering, Amirkabir University of Technology (Tehran Polytechnic), Tehran, Iran (2014–2017)
 
-**Research interests:** Wireless communications, Optical wireless communications, MIMO systems, and Cooperative communications
+Graduated in 2021. Currently, he is with Huawei, Ottawa, Canada.
 
-**Email:** [maryam3@ualberta.ca](mailto:maryam3@ualberta.ca)
+**Email:** [am11@ualberta.ca](mailto:am11@ualberta.ca)
 
 ---
 
@@ -90,7 +61,43 @@ M.Sc. in Electrical Engineering, Ozyegin University, Istanbul, Turkey (2016)
 
 **Research interests:** Cooperative communications, Orthogonal frequency division multiplexing, and Multiple-input multiple-output systems
 
+Graduated in 2021. Currently, he is a PDF at the University of Toronto, Canada.
+
 **Email:** [alirezaheidarpour@ualberta.ca](mailto:alirezaheidarpour@ualberta.ca)
+
+---
+
+### Fatemeh Rezaei Dindarloo
+**Visiting PhD Student**
+
+![Fatemeh Rezaei Dindarloo](/chinthatellambura.github.io-website/images/team/Fatemah.jpeg){: .align-right style="max-width: 220px;" }
+
+B.Sc. in Communication Engineering, Persian Gulf University, Bushehr, Iran (2011)  
+M.Sc. in Communication Engineering, Yazd University, Yazd, Iran (2013)  
+Ph.D. Student in Communication Engineering, Yazd University, Yazd, Iran (2015–Present)
+
+Graduated in 2020. Currently, she is with Huawei, Ottawa, Canada.
+
+**Email:** [Rezaeidi@ualberta.ca](mailto:Rezaeidi@ualberta.ca)
+
+
+---
+
+### Maryam Haghighi Ardakani
+**PhD Student**  
+Co-supervised with [Dr. Masoud Ardakani](http://www.ece.ualberta.ca/~ardakani/){: target="_blank" }
+
+![Maryam Haghighi Ardakani](/chinthatellambura.github.io-website/images/team/maryam.jpg){: .align-right style="max-width: 220px;" }
+
+B.Sc. in Electrical Engineering, Isfahan University, Isfahan, Iran (2013)  
+M.Sc. in Electrical Engineering, Ozyegin University, Istanbul, Turkey (2016)
+
+**Research interests:** Wireless communications, Optical wireless communications, MIMO systems, and Cooperative communications
+
+Graduated in 2020. Currently, he is a PDF at the University of Toronto, Canada.
+
+**Email:** [maryam3@ualberta.ca](mailto:maryam3@ualberta.ca)
+
 
 ---
 

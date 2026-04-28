@@ -5,18 +5,20 @@ permalink: /team/research/
 author_profile: true
 ---
 
-## Graduate Students
+## PostDocs
 
-### Reza Yousefvand
+### Diluka Galappaththige
 **M.Sc. Student**
 
-![Reza Yousefvand](/chinthatellambura.github.io-website/images/team/Reza.jpg){: .align-right style="max-width: 220px;" }
+![Reza Yousefvand](/chinthatellambura.github.io-website/images/team/Diluka.jpg){: .align-right style="max-width: 220px;" }
 
-B.Sc. in Electrical Engineering, University of Tehran, Tehran, Iran (2014–2018)
+B.Sc. in Electrical and Electronic Engineering, University of Peradeniya, Sri Lanka (2014–2017)
 
-**Research interests:** Wireless communication, Machine Learning, Reinforcement Learning, Ambient Backscatter Communications
+Ph.D. in Electrical and Computer Engineering, Southern Illinois University, USA. (2018–2022)
 
-**Email:** [yousefva@ualberta.ca](mailto:yousefva@ualberta.ca)
+**Research interests:** Wireless communication, Signal processing, Integrated sensing and communication, Machine learning, Backscatter communications
+
+**Email:** [diluka.lg@ualberta.ca](mailto:diluka.lg@ualberta.ca)
 
 ---
 
